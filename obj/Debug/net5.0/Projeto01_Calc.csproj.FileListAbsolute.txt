@@ -1,0 +1,16 @@
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\Projeto01_Calc.exe
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\Projeto01_Calc.deps.json
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\Projeto01_Calc.runtimeconfig.json
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\Projeto01_Calc.runtimeconfig.dev.json
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\Projeto01_Calc.dll
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\ref\Projeto01_Calc.dll
+C:\CSharp\Projeto01_Calc\bin\Debug\net5.0\Projeto01_Calc.pdb
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.csproj.AssemblyReference.cache
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.AssemblyInfoInputs.cache
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.AssemblyInfo.cs
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.csproj.CoreCompileInputs.cache
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.dll
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\ref\Projeto01_Calc.dll
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.pdb
+C:\CSharp\Projeto01_Calc\obj\Debug\net5.0\Projeto01_Calc.genruntimeconfig.cache
